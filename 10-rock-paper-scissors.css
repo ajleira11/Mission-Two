@@ -1,0 +1,49 @@
+.title {
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.move-icon {
+  height: 50px;
+}
+
+.move-button {
+  background-color: transparent;
+  border: 3px solid white;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.result {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.score {
+  margin-top: 40px;
+  font-size: 30px;
+}
+
+.resetButton,
+.autoplay {
+  background-color: black;
+  border: none;
+  font-size: 15px;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  color: white;
+  border: 2px solid #ffa31a;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin: 50px;
+}
+
+div {
+  padding: 10px;
+}
